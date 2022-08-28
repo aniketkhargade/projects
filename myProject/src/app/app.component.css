@@ -1,6 +1,25 @@
-body{
-    background-color: rgb(63, 106, 122);
+body {
+    background-color: rgb(209, 235, 245);
 }
-.header{
+
+.heading {
     color: rgb(214, 112, 57);
+    background-color: blanchedalmond;
+    padding: 1px;
+    text-align: center;
+    font-style: italic;
+}
+
+.navbar {
+    
+}
+
+.menu ul li {
+    display: inline-block;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: black;
+
 }
