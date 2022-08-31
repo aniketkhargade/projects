@@ -7,5 +7,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myProject';
-  title1 = "Todo list with Anguler";
 }
