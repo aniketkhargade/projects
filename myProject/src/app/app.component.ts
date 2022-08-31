@@ -7,8 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myProject';
-  data = "code step by step"
-  getValue(){
-    return "Get data"
-  }
+  title1 = "Todo list with Anguler";
 }
